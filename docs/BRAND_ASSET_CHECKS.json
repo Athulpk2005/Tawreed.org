@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "native_variants": [
+    {
+      "variant": "Primary_Transparent",
+      "unchanged_native_bytes": true,
+      "sha256": "4953e991953e2f779b68ea68a202e340e7d3d507588d68f7d004f41d34beda62"
+    },
+    {
+      "variant": "Wordmark_Transparent",
+      "unchanged_native_bytes": true,
+      "sha256": "0cb6ea57d1b82f2105a8c967555ee9b9b685def58869a19a5fb457091d99abe6"
+    },
+    {
+      "variant": "Reverse_On_Indigo",
+      "unchanged_native_bytes": true,
+      "sha256": "14d8f9d4a3c4c697ba8a5d78c121c9b3313345b53f98a539468b705b90deb776"
+    },
+    {
+      "variant": "Wordmark_Reverse_On_Indigo",
+      "unchanged_native_bytes": true,
+      "sha256": "ea2ce462a3a1feadb178aa0b808412aed7c5344a0a416657a3d9c14a791c1dff"
+    },
+    {
+      "variant": "Monochrome_Indigo_Transparent",
+      "unchanged_native_bytes": true,
+      "sha256": "55a4b5207499f15ecd0029855c7334c7ba60c7350375fc0faece1328abc09a91"
+    },
+    {
+      "variant": "Monochrome_White_On_Indigo",
+      "unchanged_native_bytes": true,
+      "sha256": "dfcb39a2772d31a9aa8156b318a26bc19cb8403e5e2fb76b9ee9ac0d3649cfc0"
+    },
+    {
+      "variant": "App_Tile",
+      "unchanged_native_bytes": true,
+      "sha256": "03e3d214c6d370f81b227cc55f891562c7ef1ef6fa6abad1a71680b50d5ca340"
+    }
+  ]
+}

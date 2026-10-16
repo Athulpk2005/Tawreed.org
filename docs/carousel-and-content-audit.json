@@ -1,0 +1,30 @@
+{
+  "checks": [
+    {
+      "name": "All eight requested carousel links, three-sentence summaries and detailed destinations exist",
+      "status": "PASS"
+    },
+    {
+      "name": "Carousel adapts to 3 desktop, 2 tablet and 1 mobile card with usable arrows and dots",
+      "status": "PASS"
+    },
+    {
+      "name": "Long-form operational content is visible rather than hidden in tabs",
+      "status": "PASS"
+    },
+    {
+      "name": "Four welfare slides include accommodation, dining, recreation and transport",
+      "status": "PASS"
+    },
+    {
+      "name": "Native mobile touch swipe advances the service strip",
+      "status": "PASS"
+    },
+    {
+      "name": "Online carousel photographs and restored desktop/mobile composition render",
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "status": "PASS"
+}

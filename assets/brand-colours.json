@@ -1,0 +1,48 @@
+{
+  "space": "sRGB",
+  "note": "Working design targets, not uniform colour readings of every generated pixel. Match final print artwork through an approved colour proof.",
+  "indigo": {
+    "hex": "#302C65",
+    "rgb": [
+      48,
+      44,
+      101
+    ]
+  },
+  "periwinkle": {
+    "hex": "#8B8FC9",
+    "rgb": [
+      139,
+      143,
+      201
+    ]
+  },
+  "teal": {
+    "hex": "#159DA8",
+    "rgb": [
+      21,
+      157,
+      168
+    ]
+  },
+  "pearl": {
+    "hex": "#F5F5F7",
+    "rgb": [
+      245,
+      245,
+      247
+    ]
+  },
+  "white": {
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ]
+  },
+  "gradient": {
+    "location": "inside w only",
+    "intent": "Indigo left entry, periwinkle centre, teal ascending right stroke, with a soft curved periwinkle current. The raster master is the reproduction reference."
+  }
+}

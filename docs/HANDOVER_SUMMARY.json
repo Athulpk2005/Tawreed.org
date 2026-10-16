@@ -1,0 +1,28 @@
+{
+  "brand": "Tawreed",
+  "legalName": "Tawreed L.L.C.",
+  "confirmedEmail": "info@tawreed.org",
+  "phone": "",
+  "pageCount": 17,
+  "coreServiceCount": 8,
+  "baseStylesheetSHA256": "f9f55328450a6f25b0ef469a4b51f1a5b926081396da754c15c5d1b8e91c2a9f",
+  "layoutPreserved": true,
+  "contentTabsRemoved": true,
+  "additionalServicePages": [
+    "professional-staffing.html",
+    "industrial-manpower.html",
+    "facilities-hospitality.html",
+    "international-mobilisation.html"
+  ],
+  "frameworkPages": [
+    "administration.html",
+    "commercial-framework.html"
+  ],
+  "notLive": [
+    "ERP authentication",
+    "RFP backend upload",
+    "password reset",
+    "UAE PASS",
+    "Microsoft 365 SSO"
+  ]
+}

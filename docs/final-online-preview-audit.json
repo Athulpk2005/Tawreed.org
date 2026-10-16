@@ -1,0 +1,146 @@
+{
+  "onlineChecks": [
+    {
+      "page": "index.html",
+      "width": 288,
+      "viewport": 320,
+      "scroll": 320,
+      "left": 16,
+      "status": "PASS"
+    },
+    {
+      "page": "professional-staffing.html",
+      "width": 288,
+      "viewport": 320,
+      "scroll": 320,
+      "left": 16,
+      "status": "PASS"
+    },
+    {
+      "page": "eor-payroll.html",
+      "width": 288,
+      "viewport": 320,
+      "scroll": 320,
+      "left": 16,
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "width": 288,
+      "viewport": 320,
+      "scroll": 320,
+      "left": 16,
+      "status": "PASS"
+    },
+    {
+      "page": "index.html",
+      "width": 343,
+      "viewport": 375,
+      "scroll": 375,
+      "left": 16,
+      "status": "PASS"
+    },
+    {
+      "page": "professional-staffing.html",
+      "width": 343,
+      "viewport": 375,
+      "scroll": 375,
+      "left": 16,
+      "status": "PASS"
+    },
+    {
+      "page": "eor-payroll.html",
+      "width": 343,
+      "viewport": 375,
+      "scroll": 375,
+      "left": 16,
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "width": 343,
+      "viewport": 375,
+      "scroll": 375,
+      "left": 16,
+      "status": "PASS"
+    },
+    {
+      "page": "index.html",
+      "width": 688,
+      "viewport": 768,
+      "scroll": 768,
+      "left": 40,
+      "status": "PASS"
+    },
+    {
+      "page": "professional-staffing.html",
+      "width": 688,
+      "viewport": 768,
+      "scroll": 768,
+      "left": 40,
+      "status": "PASS"
+    },
+    {
+      "page": "eor-payroll.html",
+      "width": 688,
+      "viewport": 768,
+      "scroll": 768,
+      "left": 40,
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "width": 688,
+      "viewport": 768,
+      "scroll": 768,
+      "left": 40,
+      "status": "PASS"
+    },
+    {
+      "page": "index.html",
+      "width": 1240,
+      "viewport": 1440,
+      "scroll": 1440,
+      "left": 100,
+      "status": "PASS"
+    },
+    {
+      "page": "professional-staffing.html",
+      "width": 1240,
+      "viewport": 1440,
+      "scroll": 1440,
+      "left": 100,
+      "status": "PASS"
+    },
+    {
+      "page": "eor-payroll.html",
+      "width": 1240,
+      "viewport": 1440,
+      "scroll": 1440,
+      "left": 100,
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "width": 1240,
+      "viewport": 1440,
+      "scroll": 1440,
+      "left": 100,
+      "status": "PASS"
+    }
+  ],
+  "imageModes": [
+    {
+      "mode": "Direct file with internet",
+      "photographs": true,
+      "status": "PASS"
+    },
+    {
+      "mode": "Direct file with external requests blocked",
+      "localArtwork": true,
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "status": "PASS"
+}

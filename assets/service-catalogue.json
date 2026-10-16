@@ -1,0 +1,42 @@
+[
+  {
+    "title": "White-Collar & Professional Staffing",
+    "url": "services.html#white-collar",
+    "formCategory": "professional"
+  },
+  {
+    "title": "Industrial, Logistics & Blue-Collar Deputation",
+    "url": "services.html#blue-collar",
+    "formCategory": "industrial"
+  },
+  {
+    "title": "Employer of Record & PEO Services",
+    "url": "eor-payroll.html#eor",
+    "formCategory": "eor"
+  },
+  {
+    "title": "Turnkey WPS & Managed Payroll Outsourcing",
+    "url": "eor-payroll.html#payroll",
+    "formCategory": "payroll"
+  },
+  {
+    "title": "Emiratisation \u2014 Tawteen & Nafis Solutions",
+    "url": "emiratisation.html",
+    "formCategory": "emiratisation"
+  },
+  {
+    "title": "Facilities Management & Hospitality Manpower",
+    "url": "services.html#hospitality-fm",
+    "formCategory": "hospitality-fm"
+  },
+  {
+    "title": "Volume Mobilisation & International Talent Corridors",
+    "url": "services.html#overseas-corridors",
+    "formCategory": "overseas"
+  },
+  {
+    "title": "HR Advisory, PRO & Government Licensing Services",
+    "url": "about.html#governance",
+    "formCategory": "advisory"
+  }
+]

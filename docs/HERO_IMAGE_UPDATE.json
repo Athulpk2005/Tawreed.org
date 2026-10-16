@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "change_scope": "Opening homepage hero image element only",
+  "all_text_preserved": true,
+  "all_other_existing_files_unchanged": true,
+  "asset": "assets/hero-abu-dhabi.jpg",
+  "source_file": "leon-macapagal-6gg5bY6U0lE-unsplash.jpg",
+  "source_sha256": "7a6e614c9980758a306a7ac0f70f4d65508c9bf6d207154e33f85c450a3d4997",
+  "image_bytes": 1889159,
+  "unchanged_css_and_javascript": true,
+  "unchanged_other_pages": 16,
+  "browser_checks": {
+    "desktop_1440px_image_decodes": true,
+    "mobile_375px_image_decodes": true,
+    "no_horizontal_overflow": true,
+    "existing_gradient_preserved": true,
+    "hero_next_and_previous_work": true,
+    "employee_portal_modal_opens": true
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "layout_source": "Recovered earlier Expanded website",
+  "base_stylesheet_unchanged": true,
+  "content_treatment": "Visible long-form chapters, exact eight-segment carousel and dedicated detail pages",
+  "pages": [
+    {
+      "page": "about.html",
+      "main_words": 1883,
+      "visible_operational_chapters": 3
+    },
+    {
+      "page": "administration.html",
+      "main_words": 650,
+      "visible_operational_chapters": 4
+    },
+    {
+      "page": "commercial-framework.html",
+      "main_words": 649,
+      "visible_operational_chapters": 0
+    },
+    {
+      "page": "compliance-welfare.html",
+      "main_words": 1800,
+      "visible_operational_chapters": 8
+    },
+    {
+      "page": "contact.html",
+      "main_words": 1701,
+      "visible_operational_chapters": 4
+    },
+    {
+      "page": "corporate-services.html",
+      "main_words": 1230,
+      "visible_operational_chapters": 10
+    },
+    {
+      "page": "emiratisation.html",
+      "main_words": 1395,
+      "visible_operational_chapters": 9
+    },
+    {
+      "page": "eor-payroll.html",
+      "main_words": 1844,
+      "visible_operational_chapters": 6
+    },
+    {
+      "page": "facilities-hospitality.html",
+      "main_words": 831,
+      "visible_operational_chapters": 6
+    },
+    {
+      "page": "how-we-work.html",
+      "main_words": 2511,
+      "visible_operational_chapters": 4
+    },
+    {
+      "page": "index.html",
+      "main_words": 927,
+      "visible_operational_chapters": 0
+    },
+    {
+      "page": "industrial-manpower.html",
+      "main_words": 953,
+      "visible_operational_chapters": 6
+    },
+    {
+      "page": "international-mobilisation.html",
+      "main_words": 790,
+      "visible_operational_chapters": 0
+    },
+    {
+      "page": "it-erp-consulting.html",
+      "main_words": 1492,
+      "visible_operational_chapters": 11
+    },
+    {
+      "page": "portal-login.html",
+      "main_words": 1088,
+      "visible_operational_chapters": 3
+    },
+    {
+      "page": "professional-staffing.html",
+      "main_words": 1711,
+      "visible_operational_chapters": 18
+    },
+    {
+      "page": "services.html",
+      "main_words": 1651,
+      "visible_operational_chapters": 0
+    }
+  ]
+}

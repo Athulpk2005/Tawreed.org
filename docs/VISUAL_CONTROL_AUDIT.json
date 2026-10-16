@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Hero arrows dots and keyboard navigation",
+    "Native mobile hero swipe",
+    "Gallery thumbnails and existing arrows stay synchronised",
+    "No-JavaScript controls hidden and links retained",
+    "Both enterprise cards display added images",
+    "Illustrative scenario image decodes after lazy loading"
+  ]
+}

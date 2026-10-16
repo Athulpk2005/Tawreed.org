@@ -1,0 +1,286 @@
+{
+  "reviewed": "2026-10-16",
+  "page_count": 17,
+  "pages": [
+    {
+      "page": "international-mobilisation.html",
+      "status": "PASS",
+      "original_text_nodes": 152,
+      "original_words": 1110,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "index.html",
+      "status": "PASS",
+      "original_text_nodes": 205,
+      "original_words": 1312,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "about.html",
+      "status": "PASS",
+      "original_text_nodes": 212,
+      "original_words": 2229,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "contact.html",
+      "status": "PASS",
+      "original_text_nodes": 250,
+      "original_words": 2119,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "corporate-services.html",
+      "status": "PASS",
+      "original_text_nodes": 157,
+      "original_words": 1547,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "administration.html",
+      "status": "PASS",
+      "original_text_nodes": 121,
+      "original_words": 956,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "emiratisation.html",
+      "status": "PASS",
+      "original_text_nodes": 169,
+      "original_words": 1713,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "eor-payroll.html",
+      "status": "PASS",
+      "original_text_nodes": 208,
+      "original_words": 2193,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "compliance-welfare.html",
+      "status": "PASS",
+      "original_text_nodes": 192,
+      "original_words": 2140,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "it-erp-consulting.html",
+      "status": "PASS",
+      "original_text_nodes": 177,
+      "original_words": 1813,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "portal-login.html",
+      "status": "PASS",
+      "original_text_nodes": 160,
+      "original_words": 1409,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "professional-staffing.html",
+      "status": "PASS",
+      "original_text_nodes": 194,
+      "original_words": 2057,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "how-we-work.html",
+      "status": "PASS",
+      "original_text_nodes": 262,
+      "original_words": 2914,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "services.html",
+      "status": "PASS",
+      "original_text_nodes": 230,
+      "original_words": 2024,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "industrial-manpower.html",
+      "status": "PASS",
+      "original_text_nodes": 150,
+      "original_words": 1271,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "commercial-framework.html",
+      "status": "PASS",
+      "original_text_nodes": 159,
+      "original_words": 971,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    },
+    {
+      "page": "facilities-hospitality.html",
+      "status": "PASS",
+      "original_text_nodes": 145,
+      "original_words": 1147,
+      "checks": {
+        "all_original_text_nodes_preserved_in_order": true,
+        "all_original_headings_preserved_in_order": true,
+        "all_original_ids_preserved": true,
+        "all_original_links_preserved_in_order": true,
+        "tables_unchanged": true,
+        "form_fields_unchanged": true,
+        "erp_hooks_preserved": true
+      }
+    }
+  ],
+  "original_runtime_and_styles": [
+    {
+      "file": "css/site.css",
+      "unchanged": true
+    },
+    {
+      "file": "css/service-enhancements.css",
+      "unchanged": true
+    },
+    {
+      "file": "js/main.js",
+      "unchanged": true
+    },
+    {
+      "file": "js/enhancements.js",
+      "unchanged": true
+    },
+    {
+      "file": "js/site-config.js",
+      "unchanged": true
+    }
+  ],
+  "all_original_brand_files_unchanged": true,
+  "all_original_words": 28925,
+  "status": "PASS"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "original_pages_preserved_except_header_insertions": [
+    "international-mobilisation.html",
+    "index.html",
+    "about.html",
+    "contact.html",
+    "corporate-services.html",
+    "administration.html",
+    "emiratisation.html",
+    "eor-payroll.html",
+    "compliance-welfare.html",
+    "it-erp-consulting.html",
+    "portal-login.html",
+    "professional-staffing.html",
+    "how-we-work.html",
+    "services.html",
+    "industrial-manpower.html",
+    "commercial-framework.html",
+    "facilities-hospitality.html"
+  ],
+  "original_assets_and_scripts_unchanged": 38,
+  "errors": []
+}

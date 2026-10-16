@@ -1,0 +1,434 @@
+{
+  "layouts": [
+    {
+      "page": "index.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": null,
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": "288px",
+      "status": "PASS"
+    },
+    {
+      "page": "corporate-services.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": "288px",
+      "status": "PASS"
+    },
+    {
+      "page": "it-erp-consulting.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": "288px",
+      "status": "PASS"
+    },
+    {
+      "page": "services.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": "288px",
+      "status": "PASS"
+    },
+    {
+      "page": "eor-payroll.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": "288px",
+      "status": "PASS"
+    },
+    {
+      "page": "emiratisation.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": "288px",
+      "status": "PASS"
+    },
+    {
+      "page": "compliance-welfare.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": "288px",
+      "status": "PASS"
+    },
+    {
+      "page": "contact.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": "288px",
+      "status": "PASS"
+    },
+    {
+      "page": "portal-login.html",
+      "width": 320,
+      "vw": 320,
+      "scroll": 320,
+      "heroColumns": null,
+      "status": "PASS"
+    },
+    {
+      "page": "index.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": null,
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": "343px",
+      "status": "PASS"
+    },
+    {
+      "page": "corporate-services.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": "343px",
+      "status": "PASS"
+    },
+    {
+      "page": "it-erp-consulting.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": "343px",
+      "status": "PASS"
+    },
+    {
+      "page": "services.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": "343px",
+      "status": "PASS"
+    },
+    {
+      "page": "eor-payroll.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": "343px",
+      "status": "PASS"
+    },
+    {
+      "page": "emiratisation.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": "343px",
+      "status": "PASS"
+    },
+    {
+      "page": "compliance-welfare.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": "343px",
+      "status": "PASS"
+    },
+    {
+      "page": "contact.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": "343px",
+      "status": "PASS"
+    },
+    {
+      "page": "portal-login.html",
+      "width": 375,
+      "vw": 375,
+      "scroll": 375,
+      "heroColumns": null,
+      "status": "PASS"
+    },
+    {
+      "page": "index.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": null,
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": "688px",
+      "status": "PASS"
+    },
+    {
+      "page": "corporate-services.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": "688px",
+      "status": "PASS"
+    },
+    {
+      "page": "it-erp-consulting.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": "688px",
+      "status": "PASS"
+    },
+    {
+      "page": "services.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": "688px",
+      "status": "PASS"
+    },
+    {
+      "page": "eor-payroll.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": "688px",
+      "status": "PASS"
+    },
+    {
+      "page": "emiratisation.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": "688px",
+      "status": "PASS"
+    },
+    {
+      "page": "compliance-welfare.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": "688px",
+      "status": "PASS"
+    },
+    {
+      "page": "contact.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": "688px",
+      "status": "PASS"
+    },
+    {
+      "page": "portal-login.html",
+      "width": 768,
+      "vw": 768,
+      "scroll": 768,
+      "heroColumns": null,
+      "status": "PASS"
+    },
+    {
+      "page": "index.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": null,
+      "status": "PASS"
+    },
+    {
+      "page": "about.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": "616.875px 558.125px",
+      "status": "PASS"
+    },
+    {
+      "page": "corporate-services.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": "616.875px 558.125px",
+      "status": "PASS"
+    },
+    {
+      "page": "it-erp-consulting.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": "616.875px 558.125px",
+      "status": "PASS"
+    },
+    {
+      "page": "services.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": "616.875px 558.125px",
+      "status": "PASS"
+    },
+    {
+      "page": "eor-payroll.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": "616.875px 558.125px",
+      "status": "PASS"
+    },
+    {
+      "page": "emiratisation.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": "616.875px 558.125px",
+      "status": "PASS"
+    },
+    {
+      "page": "compliance-welfare.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": "616.875px 558.125px",
+      "status": "PASS"
+    },
+    {
+      "page": "contact.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": "616.875px 558.125px",
+      "status": "PASS"
+    },
+    {
+      "page": "portal-login.html",
+      "width": 1440,
+      "vw": 1440,
+      "scroll": 1440,
+      "heroColumns": null,
+      "status": "PASS"
+    }
+  ],
+  "interactions": [
+    "Three-image hero arrows wrap, dots select and status updates",
+    "Existing eight-service carousel still advances",
+    "Four gallery thumbnails remain synchronised with existing arrows and wrap",
+    "All selected free Unsplash photographs decode successfully"
+  ],
+  "errors": [],
+  "photographs": [
+    {
+      "key": "dubai",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "museum",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "meeting",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "boardroom",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "leadership",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "collaboration",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "team",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "change",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "data",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "safety",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "warehouse",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "engineers",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "workshop",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "industrial",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "medical",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "room",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "dining",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "gym",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "hospitality",
+      "width": 1000,
+      "status": "PASS"
+    },
+    {
+      "key": "coach",
+      "width": 1000,
+      "status": "PASS"
+    }
+  ],
+  "status": "PASS"
+}

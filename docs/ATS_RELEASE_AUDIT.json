@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "automated_backend_tests": 15,
+  "tested_backend_workflows": [
+    "Approval-only publication",
+    "Per-recruiter record scope",
+    "Application receipt and duplicate prevention",
+    "PDF/DOCX validation",
+    "Authenticated CV download",
+    "Pipeline transitions and history",
+    "Private notes",
+    "Administrator account creation and forced password change",
+    "Last administrator protection",
+    "Session rotation, revocation and expiry",
+    "CSRF and cross-origin rejection",
+    "Login throttling",
+    "Editing resets approval",
+    "Closed jobs reject applications",
+    "Candidate deletion removes CV and dependent records",
+    "Persistence across restart",
+    "Production HTTPS/scanner guard",
+    "Antivirus pass/reject/unavailable branches",
+    "Private static-path blocking"
+  ],
+  "browser_verified": [
+    "Emirate filter",
+    "Job detail navigation",
+    "PDF CV upload with fictional candidate",
+    "Successful application reference",
+    "Administrator sign-in",
+    "Candidate profile and recorded stage advancement",
+    "Vacancy creation and assigned recruiter selection",
+    "Draft to pending to approved publication",
+    "Mobile navigation and Job Portal link",
+    "Existing ERP modal retained",
+    "Original hero headline and local skyline image retained",
+    "Mobile layout at 320 px and dashboard at 390 px without document overflow",
+    "Clean release empty-state"
+  ],
+  "static_link_audit": {
+    "top_level_pages": 21,
+    "embedded_html_assets": 1,
+    "internal_links_checked": 1312,
+    "asset_references_checked": 372,
+    "errors": [],
+    "status": "PASS"
+  },
+  "preservation_audit": "ATS_PRESERVATION_AUDIT.json",
+  "delivery_state": {
+    "live_accounts": 0,
+    "live_vacancies": 0,
+    "live_candidates": 0,
+    "qa_data_in_archive": false,
+    "existing_erp_status": "Unchanged preview; separate from functioning ATS",
+    "deployment": "Local package; production host is not provisioned"
+  },
+  "production_verification_limit": "HTTPS termination, actual ClamAV installation, host permissions, backup operations and production load require verification on the chosen hosting environment."
+}
